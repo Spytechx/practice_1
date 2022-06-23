@@ -1,0 +1,28 @@
+.heading{
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+div{
+    margin: auto;
+    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-left: 300px;
+    margin-right: 300px;
+    width: 100%;
+}
+
+.first{
+    color: red;
+}
+.second{
+    color: blue;
+}
+.third{
+    color: brown;
+}
+
+.fourth{
+    color: aquamarine;
+}
